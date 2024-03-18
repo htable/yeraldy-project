@@ -1,0 +1,7 @@
+.my-component {
+    background-image: url('./proyectos/sources/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ajusta la altura según tus necesidades */
+  }
